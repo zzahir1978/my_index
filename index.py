@@ -8,6 +8,7 @@ col2.subheader(':page_facing_up: [Main Dashboard](https://share.streamlit.io/zza
 col2.subheader(':pill: [Covid Dashboard](https://zzahir1978-covid-dashboard-covid-gpsg1z.streamlitapp.com/)')
 col2.subheader(':bulb:[Utility Dashboard](https://zzahir1978-utility-dashboard-app-vjaj6n.streamlitapp.com/)')
 col2.subheader(':bust_in_silhouette: [User Dashboard](https://zzahir1978-user-dashboard-main-vy308e.streamlitapp.com/)')
+col2.subheader(':mag: [Python WebScraper](https://zzahir1978-webscraper-webscraper2-f6guvb.streamlitapp.com/)')
 
 # --- HIDE STREAMLIT STYLE ---
 
