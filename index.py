@@ -10,7 +10,7 @@ col2.subheader(':bulb:[Utility Dashboard](https://zzahir1978-utility-dashboard-a
 col2.subheader(':bust_in_silhouette: [User Dashboard](https://zzahir1978-user-dashboard-main-vy308e.streamlitapp.com/)')
 col2.subheader(':mag: [Python WebScraper](https://zzahir1978-webscraper-webscraper2-f6guvb.streamlitapp.com/)')
 col2.subheader(':cloud: [Joget Cloud](https://zahiruddin.cloud.joget.com/jw/web/login)')
-col2.subheader(':inbox_tray: [PRU15 PKR Perak Dashboard](https://zzahir1978-pkr-pkr-1ch5ix.streamlitapp.com/)')
+col2.subheader(':inbox_tray: [PRU15 Dashboard (Coming Soon!)](https://zzahir1978-pkr-pkr-1ch5ix.streamlitapp.com/)')
 
 # --- HIDE STREAMLIT STYLE ---
 
